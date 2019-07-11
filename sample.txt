@@ -1,3 +1,6 @@
 Name:Revalin Hurseetha P
 Course:M.SC.,(C.S.)
 year:3
+Semester:5
+College:Anna University
+Campus:CEG
